@@ -146,3 +146,13 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+## homework
+
+1. gpt-4v: https://github.com/zhengjo5/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
+
+2. ai translator: https://github.com/zhengjo5/openai-quickstart/blob/main/openai-translator/ai_translator/main.py
+
+3. langchain chains: https://github.com/zhengjo5/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb 
+
+4. sales chatbot: https://github.com/zhengjo5/openai-quickstart/tree/main/langchain/car_sales_chatbot
+
